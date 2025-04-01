@@ -20,6 +20,4 @@ def count_images_in_liver_dir(base_dir):
 
     print(f"Total images across all liver_x folders: {total_images}")
 
-# 示例路径
-base_dir = "/mnt/data/huangyifei/segment-anything-2/videos/Brats2020" #18716
-count_images_in_liver_dir(base_dir)
+
